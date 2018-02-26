@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+void  main()
 {
     int n1, n2, i, gcd, lcm;
     scanf("%d %d",&n1,&n2);
@@ -9,5 +9,5 @@ int main()
             gcd = i;
     }
     lcm = (n1*n2)/gcd;
-    printf("%d",lcm);
+    printf("%d\n ",lcm);
 }
