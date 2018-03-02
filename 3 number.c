@@ -6,7 +6,7 @@ int main()
 	scanf("%d",&a);
 	scanf("%d",&b);
 	scanf("%d",&c);
-	printf("%c",(a*b/c));
+	printf("%c\n ",(a*b/c));
 	
 
 }
