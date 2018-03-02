@@ -10,7 +10,7 @@ int main()
 	x=l-n;
 	for(i=x;i<l;i++)
 	{
-		printf("%c",a[i]);
+		printf("%c\n ",a[i]);
 	}
 	return(0);	
 }
