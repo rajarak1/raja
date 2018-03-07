@@ -29,15 +29,15 @@ int main(void)
 	}
 	else
 	{
-		printf("\nno");
+		printf("no");
 	}
 	if(flag==1)
 	{
-		printf("\nno");
+		printf("no");
 	}
 	else
 	{
-		printf("\nyes");
+		printf("yes");
 	}
 
 	return 0;
