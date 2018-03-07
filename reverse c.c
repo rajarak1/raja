@@ -7,6 +7,6 @@ int main()
     int i, len;
     len=strlen(str);
     for(i=len;i>=0;i--)
-     printf("%c",str[i]);
+     printf("%c\n ",str[i]);
     return(0);
 }
