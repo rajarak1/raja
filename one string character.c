@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<string.h>
-int main(void) 
+void main(void) 
 {
 	char str1[50],str2[50];
 	int i,j,n1,n2,count=0;
@@ -30,9 +30,5 @@ int main(void)
 			printf("no");
 		}
 	}
-	else
-	{
-		printf("no");
-	}
 	return 0;
-}
+       }
